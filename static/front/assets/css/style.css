@@ -2370,7 +2370,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     height: 2px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#75DAB4), to(#181818));
+    background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#00ABFF), to(#181818));
     background: linear-gradient(90deg, #181818,#00ABFF, #181818)
 }
 
@@ -2393,7 +2393,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     height: 2px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(#75DAB4), to(#fff));
+    background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(#00ABFF), to(#fff));
     background: linear-gradient(90deg, #fff,#00ABFF, #fff)
 }
 
@@ -2440,7 +2440,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     height: 2px;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-    background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#75DAB4), to(#181818));
+    background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#00ABFF), to(#181818));
     background: linear-gradient(90deg, #181818,#00ABFF, #181818)
 }
 
