@@ -169,7 +169,7 @@ video {
         transform: rotate(0)
     }
     55% {
-        background-color: #75dab4
+        background-color:#00ABFF
     }
     100% {
         -webkit-transform: rotate(90deg);
@@ -199,7 +199,7 @@ video {
         transform: rotate(0)
     }
     55% {
-        background-color: #75dab4
+        background-color:#00ABFF
     }
     100% {
         -webkit-transform: rotate(-90deg);
@@ -460,7 +460,7 @@ video {
 .breadcrumb-cnt h1 {
     font-size: 60px;
     font-weight: 700;
-    color: #75dab4;
+    color:#00ABFF;
     text-transform: capitalize;
     margin-bottom: 5px
 }
@@ -485,7 +485,7 @@ video {
 
 .breadcrumb-cnt span a {
     display: inline-block;
-    color: #75dab4
+    color:#00ABFF
 }
 
 .breadcrumb-cnt span i {
@@ -571,9 +571,9 @@ video {
     font-weight: 600;
     font-size: 16px;
     display: inline-block;
-    color: #75dab4;
+    color:#00ABFF;
     text-transform: capitalize;
-    border-bottom: 1px solid #75dab4;
+    border-bottom: 1px solid#00ABFF;
     padding-bottom: 2px;
     margin-bottom: 5px
 }
@@ -639,7 +639,7 @@ video {
     height: 150%;
     width: 150%;
     bottom: 0;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     -webkit-transform: skewX(45deg) scale(0, 1);
     transform: skewX(45deg) scale(0, 1);
     z-index: -1;
@@ -739,7 +739,7 @@ video {
     line-height: 30px;
     display: inline-block;
     color: #fff;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     text-align: center;
     border-radius: 50%;
     -webkit-transform: rotate(-45deg);
@@ -771,7 +771,7 @@ video {
         padding: 20px 10px;
         margin-bottom: 20px;
         display: block;
-        border-bottom: 1px solid #75dab4
+        border-bottom: 1px solid#00ABFF
     }
     header .main-nav ul {
         float: none;
@@ -849,7 +849,7 @@ video {
     .cross-btn span {
         width: 100%;
         height: 2px;
-        background: #75dab4 !important;
+        background:#00ABFF !important;
         display: block;
         position: absolute;
         right: 0;
@@ -998,11 +998,11 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .main-nav ul li a.active {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .main-nav ul li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .main-nav ul li i {
@@ -1063,7 +1063,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     position: absolute;
     bottom: 0;
     left: 0;
-    background-image: linear-gradient(96.98deg, #75DAB4 0%, #FF5F45 100%);
+    background-image: linear-gradient(96.98deg,#00ABFF 0%, #FF5F45 100%);
     width: 100%;
     height: 1px;
     -webkit-transform: scaleX(0);
@@ -1077,11 +1077,11 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .main-nav ul li ul.sub-menu>li a.active {
     font-weight: 500;
-    color: #75dab4
+    color:#00ABFF
 }
 
 .main-nav ul li ul.sub-menu>li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .main-nav ul li ul.sub-menu>li a:hover:before {
@@ -1526,7 +1526,7 @@ only screen and (min-width:768px) and (max-width:991px),
 }
 
 .vertical-media li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 @-webkit-keyframes rotateme {
@@ -1707,7 +1707,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     content: "";
     left: -10px;
     top: -3px;
-    border: .8px solid #75dab4;
+    border: .8px solid#00ABFF;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     height: 30px;
@@ -1730,7 +1730,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-service:hover span {
-    -webkit-text-stroke: 1px #75dab4;
+    -webkit-text-stroke: 1px#00ABFF;
     -webkit-text-fill-color: transparent;
     opacity: .5
 }
@@ -1812,7 +1812,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: 1.5px;
     right: -1.5px;
     bottom: 1.5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     z-index: -1;
     -webkit-transform: skew(0.5deg, 0.5deg);
     transform: skew(0.5deg, 0.5deg);
@@ -1854,7 +1854,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .company-since h4 span {
     display: block;
-    color: #75dab4
+    color:#00ABFF
 }
 
 .about-right {
@@ -1966,7 +1966,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     background-color: rgba(117, 218, 180, .3);
     font-size: 20px;
     border-radius: 50%;
-    color: #75dab4;
+    color:#00ABFF;
     -webkit-animation-name: ripple;
     animation-name: ripple;
     -webkit-animation-duration: 1.5s;
@@ -2127,12 +2127,12 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .isotope-menu li.active {
     color: #191a1c;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .isotope-menu li:hover {
     color: #191a1c;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .single-item {
@@ -2161,7 +2161,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     font-size: 15px;
     display: inline-block;
     color: #e4e4e4;
-    border-bottom: 1px solid #75dab4;
+    border-bottom: 1px solid#00ABFF;
     padding-bottom: 2px;
     margin-bottom: 10px
 }
@@ -2200,7 +2200,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     content: "";
     left: -10px;
     top: -3px;
-    border: .8px solid #75dab4;
+    border: .8px solid#00ABFF;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     height: 30px;
@@ -2240,7 +2240,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .our-partner .sec-title {
     margin-bottom: 10px;
-    border-right: 1px solid #75dab4
+    border-right: 1px solid#00ABFF
 }
 
 .our-partner .sec-title .swiper-button-next-c,
@@ -2261,7 +2261,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .our-partner .sec-title .swiper-button-next-c:hover,
 .our-partner .sec-title .swiper-button-prev-c:hover {
     color: #000;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .our-partner .sec-title .swiper-button-prev-c {
@@ -2335,12 +2335,12 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .nav.nav-pills .nav-item .nav-link.active {
-    background-color: #75dab4;
+    background-color:#00ABFF;
     color: #191a1c
 }
 
 .nav.nav-pills .nav-item .nav-link:hover {
-    background-color: #75dab4;
+    background-color:#00ABFF;
     color: #191a1c
 }
 
@@ -2371,7 +2371,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#75DAB4), to(#181818));
-    background: linear-gradient(90deg, #181818, #75DAB4, #181818)
+    background: linear-gradient(90deg, #181818,#00ABFF, #181818)
 }
 
 .price-box h3 {
@@ -2394,7 +2394,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     background: -webkit-gradient(linear, left top, right top, from(#fff), color-stop(#75DAB4), to(#fff));
-    background: linear-gradient(90deg, #fff, #75DAB4, #fff)
+    background: linear-gradient(90deg, #fff,#00ABFF, #fff)
 }
 
 .price-box span {
@@ -2417,7 +2417,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .price-box strong sub {
-    color: #75dab4;
+    color:#00ABFF;
     font-size: 16px;
     font-weight: 400
 }
@@ -2441,7 +2441,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
     background: -webkit-gradient(linear, left top, right top, from(#181818), color-stop(#75DAB4), to(#181818));
-    background: linear-gradient(90deg, #181818, #75DAB4, #181818)
+    background: linear-gradient(90deg, #181818,#00ABFF, #181818)
 }
 
 .price-box:hover h3,
@@ -2458,7 +2458,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .price-box:hover .price-btn a {
     color: #000;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .item-list li {
@@ -2591,7 +2591,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .testimonial-area .swiper-button-prev:hover:after {
     color: #000;
     border: none;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .testimonial-area .swiper-button-next {
@@ -2692,7 +2692,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     background-color: transparent;
     height: 15px;
     width: 15px;
-    border: .8px solid #75dab4;
+    border: .8px solid#00ABFF;
     opacity: 1
 }
 
@@ -2707,7 +2707,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: 50%;
     height: 5px;
     width: 5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 50%;
     -webkit-transform: translate(-62%, -62%);
     transform: translate(-62%, -62%)
@@ -2732,7 +2732,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     background-color: transparent;
     height: 15px;
     width: 15px;
-    border: .8px solid #75dab4;
+    border: .8px solid#00ABFF;
     opacity: 1
 }
 
@@ -2747,7 +2747,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: 50%;
     height: 5px;
     width: 5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 50%;
     -webkit-transform: translate(-62%, -62%);
     transform: translate(-62%, -62%)
@@ -2772,7 +2772,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     background-color: transparent;
     height: 15px;
     width: 15px;
-    border: .8px solid #75dab4;
+    border: .8px solid#00ABFF;
     opacity: 1
 }
 
@@ -2787,7 +2787,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: 50%;
     height: 5px;
     width: 5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 50%;
     -webkit-transform: translate(-62%, -62%);
     transform: translate(-62%, -62%)
@@ -2839,7 +2839,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-team:hover .team-inner span {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .member-img {
@@ -2921,7 +2921,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .member-img .team-social li a:hover {
-    background-color: #75dab4;
+    background-color:#00ABFF;
     color: #0f1012
 }
 
@@ -2983,7 +2983,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     display: inline-block;
     text-align: center;
     color: #0f1012;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     padding: 5px 15px;
     border-radius: 30px;
     -webkit-transition: all .5s ease-out 0s;
@@ -2992,7 +2992,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .single-blog .blog-thumb .tag a:hover {
     background-color: #fff;
-    color: #75dab4
+    color:#00ABFF
 }
 
 .single-blog .blog-inner {
@@ -3019,7 +3019,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-blog .blog-inner h4 a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .single-blog .blog-inner .author-date {
@@ -3082,7 +3082,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     font-size: 20px;
     display: block;
     text-transform: capitalize;
-    color: #75dab4
+    color:#00ABFF
 }
 
 .subscribe-cnt h3 {
@@ -3146,7 +3146,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .subscribe-form form input[type=submit] {
     max-width: 140px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 10px;
     position: absolute;
     right: 5px;
@@ -3168,7 +3168,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .subscribe-form form input[type=submit]:hover {
-    color: #75dab4;
+    color:#00ABFF;
     background-color: #fff
 }
 
@@ -3289,7 +3289,7 @@ footer.error {
 
 .social-media-icons li a:hover {
     color: #0f1012;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg)
 }
@@ -3332,7 +3332,7 @@ footer.error {
     left: -20px;
     height: 10px;
     width: 10px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 50%;
     visibility: hidden;
     opacity: 0;
@@ -3341,7 +3341,7 @@ footer.error {
 }
 
 .footer-menu li a:hover {
-    color: #75dab4;
+    color:#00ABFF;
     padding-left: 15px
 }
 
@@ -3403,7 +3403,7 @@ footer.error {
 
 .phone a:hover,
 .email a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .num-icon,
@@ -3423,7 +3423,7 @@ footer.error {
 .num-icon i,
 .mail-icon i,
 .address-icon i {
-    color: #75dab4;
+    color:#00ABFF;
     font-size: 25px
 }
 
@@ -3478,7 +3478,7 @@ footer.error {
 }
 
 .footer-bottom .copy-txt span a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .footer-bottom .footer-bottom-menu {
@@ -3546,7 +3546,7 @@ footer.error {
 }
 
 .footer-bottom .footer-bottom-menu li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .footer-bottom .footer-bottom-menu li:last-child a:before {
@@ -3593,7 +3593,7 @@ footer.error {
 }
 
 .single-service.layout2 span {
-    -webkit-text-stroke: 2px #75dab4;
+    -webkit-text-stroke: 2px#00ABFF;
     opacity: .15
 }
 
@@ -3644,7 +3644,7 @@ footer.error {
     top: -1px;
     right: -1px;
     bottom: -.5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     z-index: -1;
     -webkit-transform: skew(1deg, 1deg);
     transform: skew(1deg, 1deg);
@@ -3664,7 +3664,7 @@ footer.error {
     top: -.5px;
     right: -1px;
     bottom: -.5px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     z-index: -1;
     -webkit-transform: skew(1deg, 1deg);
     transform: skew(1deg, 1deg);
@@ -3673,7 +3673,7 @@ footer.error {
 
 .nav.nav-pills .nav-item .nav-link.active {
     position: relative;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     color: #fff
 }
 
@@ -3771,7 +3771,7 @@ footer.error {
 }
 
 .social-follow li a:hover {
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .informations {
@@ -3810,7 +3810,7 @@ footer.error {
 }
 
 .single-info:hover .icon i {
-    color: #75dab4;
+    color:#00ABFF;
     background-color: rgba(117, 218, 180, .1)
 }
 
@@ -3838,7 +3838,7 @@ footer.error {
 }
 
 .info a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .mapouter .gmap_canvas iframe {
@@ -3982,7 +3982,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .error-wrapper .home-btn a {
     display: inline-block;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 30px;
     font-weight: 600;
     font-size: 16px;
@@ -3991,13 +3991,13 @@ only screen and (min-width:768px) and (max-width:991px) {
     text-transform: uppercase;
     min-width: 180px;
     padding: 15px 30px;
-    border: 2px solid #75dab4;
+    border: 2px solid#00ABFF;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s
 }
 
 .error-wrapper .home-btn a:hover {
-    border: 2px solid #75dab4;
+    border: 2px solid#00ABFF;
     background-color: transparent
 }
 
@@ -4032,7 +4032,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .tab-link.active {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .questions-form h4 {
@@ -4057,7 +4057,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .questions-form form input[type=submit],
 .questions-form form textarea[type=submit] {
-    background-color: #75dab4;
+    background-color:#00ABFF;
     max-width: 160px;
     font-size: 18px;
     color: #fff;
@@ -4065,7 +4065,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     text-transform: capitalize;
     margin-bottom: 0;
     margin-top: 20px;
-    border: 2px solid #75dab4;
+    border: 2px solid#00ABFF;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s
 }
@@ -4074,7 +4074,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .questions-form form textarea[type=submit]:hover {
     color: #000;
     background-color: transparent;
-    border: 2px solid #75dab4
+    border: 2px solid#00ABFF
 }
 
 .questions-form form textarea {
@@ -4158,7 +4158,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .accordion-button:not(.collapsed)::after {
-    color: #75dab4;
+    color:#00ABFF;
     content: "\F63B";
     font-family: bootstrap-icons;
     background: 0 0
@@ -4266,7 +4266,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .category li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .sidebar-banner {
@@ -4348,7 +4348,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .banner-inner h3 span {
-    color: #75dab4;
+    color:#00ABFF;
     display: block
 }
 
@@ -4485,7 +4485,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .project-thumb .tag a {
-    background-color: #75dab4;
+    background-color:#00ABFF;
     font-weight: 500;
     font-size: 18px;
     display: inline-block;
@@ -4567,7 +4567,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     width: 40px;
     text-align: center;
     line-height: 40px;
-    color: #75dab4;
+    color:#00ABFF;
     font-size: 18px;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
@@ -4577,7 +4577,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .swiper.work-process-slide .arrow .swiper-button-next-c:hover,
 .swiper.work-process-slide .arrow .swiper-button-prev-c:hover {
     color: #fff;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .swiper.work-process-slide .arrow .swiper-button-prev-c {
@@ -4729,7 +4729,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     width: 40px;
     text-align: center;
     line-height: 40px;
-    color: #75dab4;
+    color:#00ABFF;
     font-size: 18px;
     -webkit-transition: all .5s ease-out 0s;
     transition: all .5s ease-out 0s;
@@ -4739,7 +4739,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .project-slider .arrow .swiper-button-next-c:hover,
 .project-slider .arrow .swiper-button-prev-c:hover {
     color: #fff;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 .project-slider .arrow .swiper-button-prev-c {
@@ -4775,7 +4775,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     transform: translateY(-50%);
     height: 16px;
     width: 16px;
-    background-color: #75dab4;
+    background-color:#00ABFF;
     border-radius: 50%
 }
 
@@ -4868,11 +4868,11 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .cmpy-info .cnt a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .cmpy-info:hover .icon i {
-    color: #75dab4;
+    color:#00ABFF;
     background-color: rgba(117, 218, 180, .1)
 }
 
@@ -4938,7 +4938,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     font-weight: 700;
     font-size: 28px;
     text-align: center;
-    color: #75dab4;
+    color:#00ABFF;
     margin-bottom: 5px
 }
 
@@ -4990,7 +4990,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 .counter-boxes .count-box span {
     font-weight: 700;
     font-size: 35px;
-    color: #75dab4;
+    color:#00ABFF;
     display: inline-block;
     margin-bottom: 5px
 }
@@ -4999,7 +4999,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: -10px;
     font-weight: 700;
     font-size: 35px;
-    color: #75dab4;
+    color:#00ABFF;
     display: inline-block;
     margin-bottom: 5px
 }
@@ -5038,8 +5038,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .buttons-group span {
-    background-color: #75dab4;
-    border: 1px solid #75dab4;
+    background-color:#00ABFF;
+    border: 1px solid#00ABFF;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     border-radius: 5px;
@@ -5066,8 +5066,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .buttons-group span:hover {
-    color: #75dab4;
-    border: 1px solid #75dab4;
+    color:#00ABFF;
+    border: 1px solid#00ABFF;
     background-color: transparent
 }
 
@@ -5227,7 +5227,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     position: relative;
     height: 14px;
     width: 14px;
-    background: #75dab4;
+    background:#00ABFF;
     border-radius: 50%
 }
 
@@ -5245,7 +5245,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: -3px;
     height: 20px;
     width: 20px;
-    border: 1px solid #75dab4;
+    border: 1px solid#00ABFF;
     border-radius: 50%;
     -webkit-animation-name: rotateme;
     animation-name: rotateme;
@@ -5266,7 +5266,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     top: -6px;
     height: 26px;
     width: 26px;
-    border: 1px solid #75dab4;
+    border: 1px solid#00ABFF;
     border-radius: 50%;
     -webkit-animation-name: rotateme;
     animation-name: rotateme;
@@ -5282,7 +5282,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .circle .inner {
     width: 70px;
-    border: 1.5px dashed #75dab4;
+    border: 1.5px dashed#00ABFF;
     position: relative;
     top: 5.5px;
     left: 15px;
@@ -5392,7 +5392,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     color: #17161a;
-    background: #75dab4;
+    background:#00ABFF;
     border-radius: 0 3px 3px 0;
     height: 50px;
     width: 70px
@@ -5456,7 +5456,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .recent-post:hover h5 a {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .tag-list {
@@ -5483,8 +5483,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .tag-list li a:hover {
-    color: #75dab4;
-    border: 1px solid #75dab4
+    color:#00ABFF;
+    border: 1px solid#00ABFF
 }
 
 .load-more {
@@ -5499,8 +5499,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .paginations li.active a {
     color: #fff;
-    border: 1px solid #75dab4;
-    background-color: #75dab4
+    border: 1px solid#00ABFF;
+    background-color:#00ABFF
 }
 
 .paginations li a {
@@ -5522,7 +5522,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .paginations li a:hover {
     color: #fff;
-    background-color: #75dab4
+    background-color:#00ABFF
 }
 
 @media(max-width:767px) {
@@ -5814,7 +5814,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .line-tag a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .share-blog {
@@ -5853,7 +5853,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .social-share-blog li a:hover {
-    color: #75dab4
+    color:#00ABFF
 }
 
 .comments {
@@ -5947,8 +5947,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .reply a:hover {
-    color: #75dab4;
-    border: 1px solid #75dab4
+    color:#00ABFF;
+    border: 1px solid#00ABFF
 }
 
 .comment-form {
@@ -6263,7 +6263,7 @@ scrollbar-track {
 
 
 .plan-ribbon {
-    background: #75DAB4;
+    background:#00ABFF;
     box-shadow: none;
     text-shadow: none;
     color: #0a0a0a;
