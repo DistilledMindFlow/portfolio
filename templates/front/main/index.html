@@ -35,22 +35,6 @@
                                             <span>{% if slider.subtitle %}{{ slider.subtitle }}{% endif %}</span>
                                         </h1>
                                         <p>{% if slider.description %}{{ slider.description|safe }}{% endif %}</p>
-                                        <div class="buttons">
-                                            {% if slider.button1_url or slider.button1_text %}
-                                            <div class="cmn-btn">
-                                                <div class="line-1"></div>
-                                                <div class="line-2"></div>
-                                                <a href="{{ slider.button1_url }}">{{ slider.button1_text }}</a>
-                                            </div>
-                                            {% endif %}
-                                            {% if slider.button2_url or slider.button2_text %}
-                                            <div class="cmn-btn layout-two">
-                                                <div class="line-1"></div>
-                                                <div class="line-2"></div>
-                                                <a href="{{ slider.button2_url }}">{{ slider.button2_text }}</a>
-                                            </div>
-                                            {% endif %}
-                                        </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-6">

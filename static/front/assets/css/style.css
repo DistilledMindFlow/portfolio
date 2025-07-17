@@ -262,7 +262,7 @@ video {
     padding-bottom: 0 !important;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    background-color: #191a1c;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .2);
     box-shadow: 0 0 5px rgba(0, 0, 0, .2);
     z-index: 99
@@ -564,7 +564,7 @@ video {
 
 .sec-title.white h2,
 .sec-title.white p {
-    color: #fff
+    color: #000000
 }
 
 .sec-title span {
@@ -1134,7 +1134,8 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 @media(max-width:767px) {
     .hero-area {
-        height: unset
+        background-image: url(../img/bgm.png);
+        height: 95vh;
     }
 }
 
@@ -1192,10 +1193,13 @@ only screen and (min-width:768px) and (max-width:991px) {
 @media only screen and (min-width:768px) and (max-width:991px),
 (max-width:767px) {
     .hero-area .hero-img {
-        display: none
+        padding-top: 5%;
+        width: 70%;
+        margin: 0 auto;
+        display: block
     }
     .hero-content.layout2 {
-        margin-top: 80px;
+        padding-top: 10%;
         text-align: center;
     }
 }
@@ -1726,7 +1730,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-service:hover {
-    background-color: #0d0d0f
+    background-color: #0f0d0f
 }
 
 .single-service:hover span {
@@ -2014,7 +2018,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     background-image: url(../img/feature-bg.png);
     background-size: cover;
     background-position: center center;
-    background-color: #191a1c
+    background-color: #f4f8fb
 }
 
 @media(max-width:767px) {
@@ -2024,7 +2028,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-feature {
-    background-color: #0d0d0f;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     border-radius: 10px;
@@ -2145,7 +2149,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-item .item-inner-cnt {
-    background-color: #0f0f11;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     border-radius: 5px;
     padding: 20px;
     width: 90%;
@@ -2229,7 +2233,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .our-partner {
     padding: 100px 0;
-    background-color: #191a1c
+    background-color: #f4f8fb
 }
 
 @media(max-width:767px) {
@@ -2250,7 +2254,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     display: inline-block;
     height: 40px;
     width: 40px;
-    background-color: #0d0d0f;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     border-radius: 50%;
     line-height: 40px;
     text-align: center;
@@ -2269,7 +2273,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .single-partner {
-    background-color: #0d0d0f;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     border: 1px solid #191a1c;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -2548,7 +2552,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .testimonial-area {
-    background-color: #191a1c;
+    background-color: #f4f8fb;
     padding: 100px 0;
     position: relative
 }
@@ -2612,7 +2616,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 
 .single-testimonial {
     position: relative;
-    background-color: #0d0d0f;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     border-radius: 10px;
@@ -3066,7 +3070,7 @@ only screen and (min-width:768px) and (max-width:991px) {
     padding: 60px 80px;
     border-radius: 10px;
     background-color: #1a191d;
-    background-image: url(../img/subscribe-bg.png);
+    background-image: url(../img/bg.png);
     background-size: cover;
     background-position: center center
 }
@@ -3100,7 +3104,7 @@ only screen and (min-width:768px) and (max-width:991px) {
 }
 
 .subscribe-cnt strong {
-    -webkit-text-stroke: 1px #5f5f5f;
+    -webkit-text-stroke: 1px #ffffff;
     -webkit-text-fill-color: transparent;
     font-size: 45px;
     text-transform: uppercase;
@@ -3179,7 +3183,7 @@ footer {
     background-image: url(../img/footer-bg.png);
     background-size: cover;
     background-position: center center;
-    background-color: #191a1c
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
 }
 
 footer.error {
@@ -3554,27 +3558,26 @@ footer.error {
 }
 
 .creasoft-wrap.layout2 {
-    background-image: url(../img/black-concrete-textured.png);
     background-repeat: repeat;
-    background-color: #000
+    background-color: #ffffff
 }
 
 .services-area.layout2 .swiper-button-next::after,
 .services-area.layout2 .swiper-button-prev::after {
-    background-color: #2a2a2a;
+    background-color: #690088;
     color: #e4e4e4
 }
 
 .single-service.layout2 {
     position: relative;
-    background-color: #0d0d0e;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     border-radius: 10px
 }
 
 .single-service.layout2:hover {
-    background: linear-gradient(152.97deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(175deg, #240e3d, #690088); /* Gradient added */
     -webkit-backdrop-filter: blur(42px);
     backdrop-filter: blur(42px);
     border-radius: 10px
@@ -3598,15 +3601,15 @@ footer.error {
 }
 
 .about-left.layout2 h3 {
-    color: #e4e4e4
+    color: #1f1f1f
 }
 
 .about-left.layout2 p {
-    color: #e4e4e4
+    color: #1f1f1f
 }
 
 .company-since.layout2 {
-    background: #0d0d0f;
+    background: linear-gradient(170deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     border-radius: 20px
@@ -3678,7 +3681,7 @@ footer.error {
 }
 
 .price-box.layout2 {
-    background-color: #0d0d0f;
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
     -webkit-box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     box-shadow: inset 0 0 10px rgba(6, 6, 6, .15);
     border-radius: 10px
@@ -3695,11 +3698,11 @@ footer.error {
 }
 
 .price-box.layout2:hover {
-    background-color: #191a1c
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
 }
 
 .single-team.layout2 .team-inner {
-    background-color: #191a1c
+    background: linear-gradient(135deg, #240e3d, #690088); /* Gradient added */
 }
 
 .single-team.layout2 .team-inner h4 {
@@ -3721,11 +3724,11 @@ footer.error {
 }
 
 .single-blog.layout2 .blog-inner h4 a {
-    color: #e4e4e4
+    color: #363636
 }
 
 .single-blog.layout2:hover .blog-inner {
-    background: linear-gradient(357.81deg, rgba(39, 39, 46, 0.6445) 1.75%, rgba(74, 75, 86, 0.0072) 98.16%);
+    background: linear-gradient(357.81deg, rgba(223, 223, 223, 0.645) 1.75%, rgba(74, 75, 86, 0.0072) 98.16%);
     border-radius: 0 0 10px 10px
 }
 
@@ -6282,7 +6285,7 @@ scrollbar-track {
     font-size: 13px;
 }
 .tcg-price-box.premium-pricing {
-    background: #191a1c;
+    background: linear-gradient(170deg, #240e3d, #690088); /* Gradient added */
 }
 
 .tcg-price-box:not(.premium-pricing) {
